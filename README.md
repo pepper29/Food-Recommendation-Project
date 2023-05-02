@@ -55,4 +55,4 @@ pytorch
 
 
 ### 8. 발표자료
-https://www.notion.so/pepper29/Kobert-8843f7c9fb9349c296fe966653ea36db?pvs=4#9e2dc5ece5f44d38b0f3b132b8291f15
+https://pepper29.notion.site/Kobert-8843f7c9fb9349c296fe966653ea36db
