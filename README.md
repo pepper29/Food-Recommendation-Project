@@ -52,3 +52,7 @@ pytorch
 - 전처리: 라벨링과 데이터에 결측치, 불필요한 문자 등을 제거
 - 딥러닝: 1) Transformer: 초기에 사용한 학습모델이었지만, 정확도가 개선되지 않는 문제로 인하여 중도 모델변경
 - 딥러닝: 2) Kobert: 한국어에 특화된 Kobert모델을 사용하여 test_accuracy:0.76기록
+
+
+### 8. 발표자료
+https://www.notion.so/pepper29/Kobert-8843f7c9fb9349c296fe966653ea36db?pvs=4#9e2dc5ece5f44d38b0f3b132b8291f15
