@@ -1,0 +1,76 @@
+{
+    "name": "client",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@ant-design/icons": "^4.7.0",
+        "@emotion/react": "^11.4.1",
+        "@reduxjs/toolkit": "^1.6.2",
+        "@storybook/cli": "^6.3.9",
+        "@testing-library/jest-dom": "^5.11.4",
+        "@testing-library/react": "^12.1.2",
+        "@testing-library/user-event": "^13.2.1",
+        "antd": "^4.16.13",
+        "axios": "^0.23.0",
+        "babel-loader": "8.1.0",
+        "chart.js": "^3.5.1",
+        "immer": "^9.0.6",
+        "react": "^17.0.2",
+        "react-chartjs-2": "^3.0.5",
+        "react-dom": "^17.0.2",
+        "react-lazy-load-image-component": "^1.5.1",
+        "react-redux": "^7.2.5",
+        "react-refresh": "^0.10.0",
+        "react-router-dom": "^5.3.0",
+        "react-scripts": "4.0.3",
+        "react-slick": "^0.28.1",
+        "react-wordcloud": "^1.2.7",
+        "redux": "^4.1.1",
+        "slick-carousel": "^1.8.1",
+        "web-vitals": "^2.1.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "storybook": "start-storybook -p 6006 -s public",
+        "build-storybook": "build-storybook -s public"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ],
+        "overrides": [
+            {
+                "files": [
+                    "**/*.stories.*"
+                ],
+                "rules": {
+                    "import/no-anonymous-default-export": "off"
+                }
+            }
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@storybook/addon-actions": "^6.3.10",
+        "@storybook/addon-essentials": "^6.3.10",
+        "@storybook/addon-links": "^6.3.10",
+        "@storybook/node-logger": "^6.3.10",
+        "@storybook/preset-create-react-app": "^4.0.0",
+        "@storybook/react": "^6.3.10"
+    }
+}

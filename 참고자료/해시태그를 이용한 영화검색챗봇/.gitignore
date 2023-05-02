@@ -1,0 +1,9 @@
+server/flask/__pycache__/*.pyc
+server/flask/models/__pycache__/*.pyc
+server/flask/blueprints/__pycache__/*.pyc
+server/flask/utils/__pycache__/*.pyc
+server/flask/*.pyc
+
+server/flask/config.py
+
+server/flask/utils/data/total

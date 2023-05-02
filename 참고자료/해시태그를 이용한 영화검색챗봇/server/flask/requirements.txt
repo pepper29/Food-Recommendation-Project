@@ -1,0 +1,8 @@
+flask
+pymongo
+selenium
+flask-sqlalchemy
+pymysql
+uwsgi
+config
+flask-cors
