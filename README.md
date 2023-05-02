@@ -12,7 +12,7 @@ Seaborn \
 Mecab \
 Kobert \
 transformer \
-pytorch \
+pytorch
 
 ### 2.프로젝트 개요
 음식에 대한 수요의 종류가 다양해지면서 다양한 음식을 공급해주는 맛집이 늘어났다. \
